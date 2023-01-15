@@ -7,7 +7,7 @@ namespace WebApi.Controllers;
   [ApiController]
 [Route("[Controller]")]
 
-public class QuoteController
+public class QuoteController:ControllerBase
 {
     private QuoteService _quoteService;
     public QuoteController()

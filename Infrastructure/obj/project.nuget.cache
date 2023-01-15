@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ayi4h43JFh1Iy2QkGJi4CzA1WxxfPZZeyvb++G8cvi4jAgZpWKkDWbUrvLDmX80VRZ9rKHVLfIpkYaLlbDFnA==",
+  "dgSpecHash": "tSaYbYVVhvlEohHyq/5ie7C7a4gGeMTRqiH11JlIY0YzyRV8ziayQK03xL4Vmj+KhrxSadLFDSULt54O/h69Lg==",
   "success": true,
-  "projectFilePath": "D:\\coftclub\\C#\\week5\\12.01.22\\home Work2\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\coftclub\\C#\\week5\\12.01.22\\home work3\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Azizbek\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Azizbek\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",

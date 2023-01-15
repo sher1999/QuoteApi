@@ -3,8 +3,9 @@ using Infrastructure.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace WebApi.Controllers;
-
-public class CategoryController
+[ApiController]
+[Route("[Controller]")]
+public class CategoryController:ControllerBase
 {
     private CategoryService _categoryService;
     public CategoryController()
